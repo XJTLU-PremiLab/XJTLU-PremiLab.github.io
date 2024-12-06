@@ -1210,7 +1210,10 @@ fieldset[disabled] .btn-homepage.focus
 .img-responsive 
 {
 	margin: 0 auto;
-	height: 250px;
+	height: 220px;
+	width: 180px;
+	object-position: center;
+	object-fit: cover; 
 }
 
 .img-alumni 
