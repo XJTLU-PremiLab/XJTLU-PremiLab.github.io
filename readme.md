@@ -1,2 +1,2 @@
-# Human-Computer Interaction Engineering Group
+# PremiLab at XJTLU
 ### Official website
